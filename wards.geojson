@@ -330,7 +330,7 @@
         {
             "type": "Feature",
             "properties": {
-                "alderman": "Robert J. McWatters",
+                "alderman": "Ben Ewen-Campen",
                 "title": "Ward 3",
                 "description": "",
                 "stroke": "#1087bf",
@@ -716,7 +716,7 @@
         {
             "type": "Feature",
             "properties": {
-                "alderman": "Maryann M. Heuston",
+                "alderman": "Jefferson Thomas (J.T.) Scott",
                 "title": "Ward 2",
                 "description": "",
                 "stroke": "#1087bf",
@@ -881,7 +881,7 @@
         {
             "type": "Feature",
             "properties": {
-                "alderman": "Tony Lafuente",
+                "alderman": "Jesse Clingan",
                 "title": "Ward 4",
                 "description": "",
                 "stroke": "#1087bf",
@@ -1245,5 +1245,5 @@
             "id": "c13bec1e3f842d3f5b57916fe32ccf8d"
         }
     ],
-    "id": "mghhistory.okcf024c"
+    "id": "somerville-wards"
 }
